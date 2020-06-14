@@ -1,0 +1,8 @@
+* Plato
+
+This directory contains two books in ORG mode as downloaded from [[https://www.gutenberg.org/wiki/Main_Page][Project Gutenberg]]:
+
+- [[https://www.gutenberg.org/cache/epub/4095/pg4095.txt][Plato and Platonism]] by [[https://www.wikiwand.com/sv/Walter_Pater][Walter Pater]]
+
+- [[https://www.gutenberg.org/ebooks/search/?query=Plato][Collected Plato's Dialogues]] as translated by [[https://www.wikiwand.com/sv/Benjamin_Jowett][Benjamin Jowett]]
+
