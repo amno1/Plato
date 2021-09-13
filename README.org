@@ -1,8 +1,14 @@
-* Plato
+* Plato & Emacs benchmarks
 
 This directory contains two books in ORG mode as downloaded from [[https://www.gutenberg.org/wiki/Main_Page][Project Gutenberg]]:
 
 - [[https://www.gutenberg.org/cache/epub/4095/pg4095.txt][Plato and Platonism]] by [[https://www.wikiwand.com/sv/Walter_Pater][Walter Pater]]
 
 - [[https://www.gutenberg.org/ebooks/search/?query=Plato][Collected Plato's Dialogues]] as translated by [[https://www.wikiwand.com/sv/Benjamin_Jowett][Benjamin Jowett]]
+
+For the benchmarks see [[file:benchmark.el][benchmark report.]] The code is in [[file:benchmark.el][benchmark.el]].
+
+You have to have latest Emacs 28.0.50 since this benchmarks tests latest native compiler option:
+
+    native-comp-compiler-options.
 
