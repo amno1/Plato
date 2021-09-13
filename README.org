@@ -6,7 +6,7 @@ This directory contains two books in ORG mode as downloaded from [[https://www.g
 
 - [[https://www.gutenberg.org/ebooks/search/?query=Plato][Collected Plato's Dialogues]] as translated by [[https://www.wikiwand.com/sv/Benjamin_Jowett][Benjamin Jowett]]
 
-For the benchmarks see [[file:benchmark.el][benchmark report.]] The code is in [[file:benchmark.el][benchmark.el]].
+For the benchmarks see [[file:report.org][benchmark report]]. [[file:benchmark.el][ The code is in [[file:benchmark.el][benchmark.el]].
 
 You have to have latest Emacs 28.0.50 since this benchmarks tests latest native compiler option:
 
